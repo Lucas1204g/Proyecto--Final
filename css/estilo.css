@@ -125,13 +125,3 @@ p.lorem {
 #footerg {
     margin-top: 800px;
 }
-
-@media (max-width: 600px) {
- .mediaQe {
-    background-color: black;
-    }
-    .navegacionPofi {
-        display: flex;
-        flex-wrap: wrap;
-    }
-}
