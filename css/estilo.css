@@ -80,7 +80,8 @@ div.pie {
 #leesin {
     width: 240px;
     margin-left: 200px;
-}
+    transform: rotate3d(1,1,1,30deg);
+} 
 #leep {
     margin-left: 200px;
     font-size: 30px;
@@ -90,6 +91,7 @@ div.pie {
 #jinx {
     width: 300px;
     margin-left: 150px;
+    transform: rotate3d(1,1,1,30deg);
 
 }
 #jinxp {
@@ -121,5 +123,5 @@ p.lorem {
     margin-top: 10px;
 }
 #footerg {
-    margin-top: 500px;
+    margin-top: 800px;
 }
