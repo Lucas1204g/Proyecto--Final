@@ -1,0 +1,128 @@
+.tituloPrincipal {
+    color: black;
+    text-align: center;
+    text-decoration-line: underline;
+    font-size: 50px;
+  }
+  
+  a {
+    font-size: 25px;
+    color: green;
+    text-align: center;
+  }
+  
+  body {
+    background-image: url(https://p4.wallpaperbetter.com/wallpaper/672/894/373/tft-teamfight-tactics-league-of-legends-riot-games-creature-hd-wallpaper-preview.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .listaDesordenada {
+    font-size: 25px;
+    color: aqua;
+    display: inline;
+    padding-bottom: 300px;
+  }
+  
+  #imgtft {
+    max-height: 300px;
+    margin-left: 400px;
+  }
+  
+  footer {
+    color: red;
+    text-align: center;
+  }
+  
+  .datosWeb {
+    font-size: 40px;
+    color: aqua;
+  }
+  
+  h1 {
+    text-align: center;
+    color: blue;
+  }
+  
+  ol {
+    font-size: 20px;
+    color: aqua;
+  }
+  
+  label {
+    color: brown;
+  }
+  
+  .campeonesA {
+    color: bisque;
+  }
+  
+  div {
+    &.contenedor {
+      margin: 10px 20px;
+      float: left;
+  
+      img {
+        height: auto;
+      }
+    }
+  
+    &.pie {
+      text-align: center;
+      padding: 10px;
+      font-size: 30px;
+      color: aqua;
+    }
+  }
+  
+  #leesin {
+    width: 240px;
+    margin-left: 200px;
+    transform: rotate3d(1, 1, 1, 30deg);
+  }
+  
+  #leep {
+    margin-left: 200px;
+    font-size: 30px;
+    color: aqua;
+  }
+  
+  #jinx {
+    width: 300px;
+    margin-left: 150px;
+    transform: rotate3d(1, 1, 1, 30deg);
+  }
+  
+  #jinxp {
+    margin-left: 200px;
+    color: aqua;
+  }
+  
+  .imgW {
+    width: 900px;
+    margin-left: 200px;
+  }
+  
+  p.lorem {
+    font-size: 20px;
+    color: aqua;
+  }
+  
+  .gremiosG {
+    width: 900px;
+    margin-left: 200px;
+  }
+  
+  .loremG {
+    font-size: 20px;
+    color: aqua;
+  }
+  
+  .videoG {
+    margin-left: 250px;
+    margin-top: 10px;
+  }
+  
+  #footerg {
+    margin-top: 800px;
+  }
