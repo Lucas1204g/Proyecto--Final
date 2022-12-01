@@ -126,3 +126,9 @@
   #footerg {
     margin-top: 800px;
   }
+
+  @media (max-width: 600px) {
+    #imgtft {
+      text-align: center;
+    }
+  }
