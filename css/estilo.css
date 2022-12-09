@@ -63,7 +63,7 @@ div.pie {
 #leesin {
   width: 240px;
   margin-left: 200px;
-  transform: rotate3d(1, 1, 1, 30deg);
+  
 }
 
 #leep {
@@ -75,7 +75,7 @@ div.pie {
 #jinx {
   width: 300px;
   margin-left: 150px;
-  transform: rotate3d(1, 1, 1, 30deg);
+  
 }
 
 #jinxp {
