@@ -47,46 +47,7 @@
     color: bisque;
   }
   
-  div {
-    &.contenedor {
-      margin: 10px 20px;
-      float: left;
   
-      img {
-        height: auto;
-      }
-    }
-  
-    &.pie {
-      text-align: center;
-      padding: 10px;
-      font-size: 30px;
-      color: aqua;
-    }
-  }
-  
-  #leesin {
-    width: 240px;
-    margin-left: 200px;
-    
-  }
-  
-  #leep {
-    margin-left: 200px;
-    font-size: 30px;
-    color: aqua;
-  }
-  
-  #jinx {
-    width: 300px;
-    margin-left: 150px;
-    
-  }
-  
-  #jinxp {
-    margin-left: 200px;
-    color: aqua;
-  }
     
   p.lorem {
     font-size: 20px;
@@ -98,9 +59,6 @@
     color: aqua;
   }
    
-  #footerg {
-    margin-top: 800px;
-  }
 
 @media (max-width: 800px) {
     #imgtft {
