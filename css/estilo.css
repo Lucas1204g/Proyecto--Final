@@ -63,7 +63,6 @@ div.pie {
 #leesin {
   width: 240px;
   margin-left: 200px;
-  
 }
 
 #leep {
@@ -75,7 +74,6 @@ div.pie {
 #jinx {
   width: 300px;
   margin-left: 150px;
-  
 }
 
 #jinxp {
@@ -167,6 +165,50 @@ p.lorem {
 
 .redes-container ul li .youtube:hover {
   background: red;
+}
+
+form {
+  width: 450px;
+  margin: auto;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 10px 20px;
+  box-sizing: border-box;
+  margin-top: 20px;
+  border-radius: 7px;
+}
+
+.contacto {
+  text-align: center;
+  margin: 0;
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+input, textarea {
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 7px;
+  box-sizing: border-box;
+}
+
+#boton {
+  background-color: #31384A;
+  color: #fff;
+  padding: 20px;
+}
+
+#boton:hover {
+  cursor: pointer;
+}
+
+.comentario {
+  text-align: center;
+}
+
+@media (max-width: 480px) {
+  form {
+    width: 100%;
+  }
 }
 
 /*# sourceMappingURL=estilo.css.map */
