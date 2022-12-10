@@ -1,0 +1,7 @@
+@mixin parrafos {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.loremG {
+    @include parrafos;
+}
