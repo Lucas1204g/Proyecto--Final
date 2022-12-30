@@ -189,6 +189,14 @@ input, textarea {
   margin: auto;
 }
 
+.navbar-brand {
+  color: aquamarine;
+}
+
+.nav-link {
+  color: aquamarine;
+}
+
 .loremG {
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
 }
